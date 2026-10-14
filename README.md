@@ -47,10 +47,10 @@
   <!-- Section Title -->
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&pause=1500&color=F59E0B&center=true&vCenter=true&width=500&lines=%E2%9A%A1+FEATURED+PROJECTS;%F0%9F%A7%A9+CRAFTED+WITH+PASSION;%F0%9F%91%86+CLICK+TO+EXPLORE+CODE" alt="Featured Projects" />
 
-  <p><em>Interactive preview cards — click any card to inspect the repository directly:</em></p>
+  <p><em>Interactive preview cards & architecture descriptions — click any card to inspect code directly:</em></p>
 
-  <!-- ==================== SHOWCASE CARDS (PERFECT 2x3 GRID) ==================== -->
-  <table border="0" cellpadding="8" cellspacing="0" width="100%">
+  <!-- ==================== SHOWCASE CARDS WITH DESCRIPTIONS ==================== -->
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
       <!-- Jarvis-AI Card -->
       <td width="50%" align="center" valign="top">
@@ -58,8 +58,12 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Jarvis-AI&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=14&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b" width="100%" alt="Jarvis-AI" />
         </a>
         <br/>
+        <p align="center">
+          <strong>🤖 Intelligent Voice Assistant & Automation Engine</strong><br/>
+          <sub>Python-powered AI agent equipped with voice control, natural language query processing, and automated system task execution.</sub>
+        </p>
         <a href="https://github.com/Sh3hann/Jarvis-AI">
-          <img src="https://img.shields.io/badge/Jarvis--AI-Python_Assistant-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jarvis--AI-Python_AI-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
         </a>
         <a href="https://github.com/Sh3hann/Jarvis-AI/stargazers">
           <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
@@ -71,8 +75,12 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=AutoAid-AI&theme=tokyonight&hide_border=false&border_color=f59e0b&border_radius=14&bg_color=0d1117&title_color=f59e0b&icon_color=60a5fa" width="100%" alt="AutoAid-AI" />
         </a>
         <br/>
+        <p align="center">
+          <strong>🚗 AI Vehicle Diagnostics & Roadside Assistance</strong><br/>
+          <sub>Smart automotive platform delivering real-time vehicle fault diagnostics, step-by-step repair guides, and nearby mechanic geolocation.</sub>
+        </p>
         <a href="https://github.com/Sh3hann/AutoAid-AI">
-          <img src="https://img.shields.io/badge/AutoAid--AI-AI_Diagnostics-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/AutoAid--AI-TypeScript_AI-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
         </a>
         <a href="https://github.com/Sh3hann/AutoAid-AI/stargazers">
           <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
@@ -86,6 +94,10 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Careerpilot-AI&theme=tokyonight&hide_border=false&border_color=3b82f6&border_radius=14&bg_color=0d1117&title_color=60a5fa&icon_color=f59e0b" width="100%" alt="Careerpilot-AI" />
         </a>
         <br/>
+        <p align="center">
+          <strong>🧭 AI Career Pathfinder & Roadmap Generator</strong><br/>
+          <sub>Next-gen career companion analyzing individual skill profiles, current tech hiring trends, and constructing tailored career milestones.</sub>
+        </p>
         <a href="https://github.com/Sh3hann/Careerpilot-AI">
           <img src="https://img.shields.io/badge/Careerpilot--AI-Career_GPS-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" />
         </a>
@@ -99,8 +111,12 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Tutor-Booking-System&theme=tokyonight&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa" width="100%" alt="TutorHub" />
         </a>
         <br/>
+        <p align="center">
+          <strong>🎓 Educational Tutoring & Session Booking Platform</strong><br/>
+          <sub>Full-stack marketplace connecting learners with verified instructors, scheduling calendar sessions, and managing institutional bookings.</sub>
+        </p>
         <a href="https://github.com/Sh3hann/Tutor-Booking-System">
-          <img src="https://img.shields.io/badge/TutorHub-Booking_System-7c3aed?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/TutorHub-Full_Stack-7c3aed?style=for-the-badge&logo=react&logoColor=61DAFB" />
         </a>
         <a href="https://github.com/Sh3hann/Tutor-Booking-System/stargazers">
           <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
@@ -114,6 +130,10 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=RideLink-Backend&theme=tokyonight&hide_border=false&border_color=10b981&border_radius=14&bg_color=0d1117&title_color=34d399&icon_color=60a5fa" width="100%" alt="RideLink-Backend" />
         </a>
         <br/>
+        <p align="center">
+          <strong>🚘 Scalable Ride-Sharing & Dispatch Microservice</strong><br/>
+          <sub>Enterprise Java Spring Boot REST API orchestrating driver-passenger matching, real-time coordinate updates, and trip lifecycle management.</sub>
+        </p>
         <a href="https://github.com/Sh3hann/RideLink-Backend">
           <img src="https://img.shields.io/badge/RideLink-Java_Spring-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         </a>
@@ -127,6 +147,10 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa" width="100%" alt="Hospital Management" />
         </a>
         <br/>
+        <p align="center">
+          <strong>🏥 Clinical Operations & Healthcare Portal</strong><br/>
+          <sub>Full-stack hospital administration system handling patient electronic medical records, doctor scheduling, and departmental workflows.</sub>
+        </p>
         <a href="https://github.com/Sh3hann/Hospital-Management-System">
           <img src="https://img.shields.io/badge/Healthcare-Node.js_Portal-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         </a>
