@@ -54,11 +54,7 @@
   <br/><br/>
 
   <!-- ==================== EXECUTIVE PROJECT ROWS WITH EASY-ACCESS BUTTONS ==================== -->
-
-  <!-- ==================== PERFECTLY ALIGNED SINGLE-TABLE PROJECT SHOWCASE ==================== -->
-  <table border="0" cellpadding="14" cellspacing="0" width="100%">
-
-    <!-- ROW 1: JARVIS-AI -->
+  <table border="0" cellpadding="12" cellspacing="0" width="100%">
     <tr>
       <td width="53%" align="center" valign="middle">
         <a href="https://github.com/Sh3hann/Jarvis-AI">
@@ -66,23 +62,17 @@
         </a>
       </td>
       <td width="47%" align="left" valign="middle">
-        <p>
-          <img src="https://img.shields.io/badge/🤖_DOMAIN-AUTONOMOUS_AI_LAYER-38BDF8?style=for-the-badge&logoColor=black" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Gemini_Live-4285F4?style=flat-square&logo=google&logoColor=white" />
-          <img src="https://img.shields.io/badge/Automation-10B981?style=flat-square&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Sh3hann/Jarvis-AI">
-            <img src="https://img.shields.io/badge/🚀_View_Jarvis--AI_➔-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Redirect to Jarvis-AI" />
-          </a>
-        </p>
+        <img src="https://img.shields.io/badge/🤖_DOMAIN-AUTONOMOUS_AI_LAYER-38BDF8?style=for-the-badge&logoColor=black" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Gemini_Live-4285F4?style=flat-square&logo=google&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Automation-10B981?style=flat-square&logoColor=white" />
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Jarvis-AI">
+          <img src="https://img.shields.io/badge/🚀_View_Jarvis--AI_➔-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Redirect to Jarvis-AI" />
+        </a>
       </td>
     </tr>
-
-    <!-- ROW 2: AUTOAID-AI -->
     <tr>
       <td width="53%" align="center" valign="middle">
         <a href="https://github.com/Sh3hann/AutoAid-AI">
@@ -90,23 +80,17 @@
         </a>
       </td>
       <td width="47%" align="left" valign="middle">
-        <p>
-          <img src="https://img.shields.io/badge/🚗_DOMAIN-AI_VEHICLE_DIAGNOSTICS-F59E0B?style=for-the-badge&logoColor=black" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Sh3hann/AutoAid-AI">
-            <img src="https://img.shields.io/badge/🚀_View_AutoAid--AI_➔-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="Redirect to AutoAid-AI" />
-          </a>
-        </p>
+        <img src="https://img.shields.io/badge/🚗_DOMAIN-AI_VEHICLE_DIAGNOSTICS-F59E0B?style=for-the-badge&logoColor=black" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/AutoAid-AI">
+          <img src="https://img.shields.io/badge/🚀_View_AutoAid--AI_➔-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="Redirect to AutoAid-AI" />
+        </a>
       </td>
     </tr>
-
-    <!-- ROW 3: CAREERPILOT-AI -->
     <tr>
       <td width="53%" align="center" valign="middle">
         <a href="https://github.com/Sh3hann/Careerpilot-AI">
@@ -114,23 +98,17 @@
         </a>
       </td>
       <td width="47%" align="left" valign="middle">
-        <p>
-          <img src="https://img.shields.io/badge/💼_DOMAIN-SAAS_CAREER_SUITE-3B82F6?style=for-the-badge&logoColor=white" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Sh3hann/Careerpilot-AI">
-            <img src="https://img.shields.io/badge/🚀_View_Careerpilot--AI_➔-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to Careerpilot-AI" />
-          </a>
-        </p>
+        <img src="https://img.shields.io/badge/💼_DOMAIN-SAAS_CAREER_SUITE-3B82F6?style=for-the-badge&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Careerpilot-AI">
+          <img src="https://img.shields.io/badge/🚀_View_Careerpilot--AI_➔-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to Careerpilot-AI" />
+        </a>
       </td>
     </tr>
-
-    <!-- ROW 4: TUTORHUB -->
     <tr>
       <td width="53%" align="center" valign="middle">
         <a href="https://github.com/Sh3hann/Tutor-Booking-System">
@@ -138,27 +116,21 @@
         </a>
       </td>
       <td width="47%" align="left" valign="middle">
-        <p>
-          <img src="https://img.shields.io/badge/📚_DOMAIN-EDTECH_MARKETPLACE-7C3AED?style=for-the-badge&logoColor=white" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Sh3hann/Tutor-Booking-System">
-            <img src="https://img.shields.io/badge/🚀_View_TutorHub_➔-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to TutorHub" />
-          </a>
-          &nbsp;
-          <a href="https://tutor-booking-system-eight.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Live Demo" />
-          </a>
-        </p>
+        <img src="https://img.shields.io/badge/📚_DOMAIN-EDTECH_MARKETPLACE-7C3AED?style=for-the-badge&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Tutor-Booking-System">
+          <img src="https://img.shields.io/badge/🚀_View_TutorHub_➔-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to TutorHub" />
+        </a>
+        &nbsp;
+        <a href="https://tutor-booking-system-eight.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Live Demo" />
+        </a>
       </td>
     </tr>
-
-    <!-- ROW 5: RIDELINK BACKEND -->
     <tr>
       <td width="53%" align="center" valign="middle">
         <a href="https://github.com/Sh3hann/RideLink-Backend">
@@ -166,23 +138,17 @@
         </a>
       </td>
       <td width="47%" align="left" valign="middle">
-        <p>
-          <img src="https://img.shields.io/badge/⚡_DOMAIN-CLOUD_MICROSERVICES-10B981?style=for-the-badge&logoColor=white" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Sh3hann/RideLink-Backend">
-            <img src="https://img.shields.io/badge/🚀_View_RideLink_➔-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to RideLink" />
-          </a>
-        </p>
+        <img src="https://img.shields.io/badge/⚡_DOMAIN-CLOUD_MICROSERVICES-10B981?style=for-the-badge&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/RideLink-Backend">
+          <img src="https://img.shields.io/badge/🚀_View_RideLink_➔-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to RideLink" />
+        </a>
       </td>
     </tr>
-
-    <!-- ROW 6: HOSPITAL MANAGEMENT SYSTEM -->
     <tr>
       <td width="53%" align="center" valign="middle">
         <a href="https://github.com/Sh3hann/Hospital-Management-System">
@@ -190,26 +156,21 @@
         </a>
       </td>
       <td width="47%" align="left" valign="middle">
-        <p>
-          <img src="https://img.shields.io/badge/🏥_DOMAIN-HEALTHCARE_EHR_SYSTEM-EC4899?style=for-the-badge&logoColor=white" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Sh3hann/Hospital-Management-System">
-            <img src="https://img.shields.io/badge/🚀_View_MediCore_➔-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to Hospital Management" />
-          </a>
-          &nbsp;
-          <a href="https://hospital-management-system-green-eight.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_Live_Demo-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Live Demo" />
-          </a>
-        </p>
+        <img src="https://img.shields.io/badge/🏥_DOMAIN-HEALTHCARE_EHR_SYSTEM-EC4899?style=for-the-badge&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Hospital-Management-System">
+          <img src="https://img.shields.io/badge/🚀_View_MediCore_➔-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to Hospital Management" />
+        </a>
+        &nbsp;
+        <a href="https://hospital-management-system-green-eight.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Live Demo" />
+        </a>
       </td>
     </tr>
-
   </table>
 
 </div>
