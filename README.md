@@ -5,7 +5,7 @@
 
   <!-- ==================== ANIMATED TYPEWRITER TEXT ==================== -->
   <a href="https://itzshehan.xyz/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=F59E0B&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hi%2C+I'm+Akil+Shehan;%F0%9F%8E%93+IT+Undergraduate+%40+SLIIT;%F0%9F%A4%96+Building+AI-Driven+Web+%26+Mobile+Apps;%E2%9C%A8+3D+Animator+%26+Motion+Graphics+Artist;%F0%9F%9A%80+Exploring+Modern+Full-Stack+Architectures" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=F59E0B&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hi%2C+I'm+Akil+Shehan;%F0%9F%8E%93+IT+Undergraduate+%40+SLIIT;%F0%9F%A4%96+Building+AI-Driven+Web+%26+Mobile+Apps;%E2%9C%A8+Creative+Developer+%26+Designer;%F0%9F%9A%80+Exploring+Modern+Full-Stack+Architectures" alt="Typing Subtitle" />
   </a>
 
   <br/><br/>
@@ -49,7 +49,7 @@
 
   <p><em>Interactive preview cards — click any card to inspect the repository directly:</em></p>
 
-  <!-- ==================== SHOWCASE CARDS (NO BORING TABLES) ==================== -->
+  <!-- ==================== SHOWCASE CARDS (NO 3D BOX, PURE CODE REPOSITORIES) ==================== -->
   <table border="0" cellpadding="8" cellspacing="0" width="100%">
     <tr>
       <!-- AutoAid-AI Card -->
@@ -108,31 +108,20 @@
       </td>
     </tr>
     <tr>
-      <!-- Hospital Management Card -->
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/Sh3hann/Hospital-Management-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa" width="100%" alt="Hospital Management" />
-        </a>
-        <br/>
-        <a href="https://github.com/Sh3hann/Hospital-Management-System">
-          <img src="https://img.shields.io/badge/Healthcare-Node.js_Portal-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        </a>
-        <a href="https://github.com/Sh3hann/Hospital-Management-System/stargazers">
-          <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
-        </a>
-      </td>
-      <!-- 3D & Motion Showreel Card -->
-      <td width="50%" align="center" valign="top">
-        <a href="https://itzshehan.xyz/projects.html">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20,24&height=120&section=header&text=🎬%203D%20&%20Motion%20Showreel&fontSize=22&fontAlignY=42&desc=Blender%203D%20Chase%20•%20UI%20Transitions&descAlignY=70&descSize=13&fontColor=ffffff" width="100%" alt="3D Showreel" />
-        </a>
-        <br/>
-        <a href="https://itzshehan.xyz/projects.html">
-          <img src="https://img.shields.io/badge/Blender_3D-After_Effects-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-        </a>
-        <a href="https://itzshehan.xyz/projects.html">
-          <img src="https://img.shields.io/badge/▶_Watch_Showreel-8b5cf6?style=for-the-badge" />
-        </a>
+      <!-- Hospital Management Card (Centered across row) -->
+      <td colspan="2" align="center" valign="top">
+        <div style="max-width: 500px;">
+          <a href="https://github.com/Sh3hann/Hospital-Management-System">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa" width="50%" alt="Hospital Management" />
+          </a>
+          <br/>
+          <a href="https://github.com/Sh3hann/Hospital-Management-System">
+            <img src="https://img.shields.io/badge/Healthcare-Node.js_Portal-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+          </a>
+          <a href="https://github.com/Sh3hann/Hospital-Management-System/stargazers">
+            <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
+          </a>
+        </div>
       </td>
     </tr>
   </table>
@@ -144,7 +133,7 @@
 <div align="center">
 
   <!-- Section Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&pause=1500&color=60A5FA&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK+%26+ARSENAL;%E2%9A%99%EF%B8%8F+LANGUAGES+%E2%80%A2+FRAMEWORKS;%F0%9F%8E%A8+3D+ANIMATION+%E2%80%A2+TOOLS" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&pause=1500&color=60A5FA&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK+%26+ARSENAL;%E2%9A%99%EF%B8%8F+LANGUAGES+%E2%80%A2+FRAMEWORKS;%F0%9F%9A%80+MODERN+TOOLING" alt="Tech Stack Header" />
 
   <br/><br/>
 
@@ -167,16 +156,9 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </p>
 
-  <!-- Creative Production & 3D -->
+  <!-- Design & Workflow -->
   <p>
-    <img src="https://img.shields.io/badge/Blender_3D-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
-    <img src="https://img.shields.io/badge/Premiere_Pro-EA77FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </p>
-
-  <!-- Developer Workflow -->
-  <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
