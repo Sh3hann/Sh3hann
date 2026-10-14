@@ -44,52 +44,80 @@
 
 <div align="center">
 
-  <!-- Section Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&pause=1500&color=F59E0B&center=true&vCenter=true&width=500&lines=%E2%9A%A1+FEATURED+PROJECTS;%F0%9F%A7%A9+CRAFTED+WITH+PASSION;%F0%9F%91%86+CLICK+TO+EXPLORE+CODE" alt="Featured Projects" />
+  <!-- ==================== ANIMATED PROJECTS BANNER ==================== -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=110&section=header&text=⚡%20Featured%20Projects%20Showcase&fontSize=30&fontAlignY=52&fontColor=ffffff" width="100%" alt="Featured Projects Header" />
 
-  <p><em>Interactive preview cards — click any card to inspect code directly:</em></p>
+  <a href="https://github.com/Sh3hann?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F59E0B&center=true&vCenter=true&width=560&lines=%F0%9F%9A%80+AI-Powered+Systems+%E2%80%A2+Full-Stack+Platforms+%E2%80%A2+Cloud+APIs;%F0%9F%91%87+Click+the+buttons+below+to+jump+straight+into+the+source+code!" alt="Typing Projects Guide" />
+  </a>
 
-  <!-- ==================== CLEAN, SYMMETRICAL 2x3 SHOWCASE CARDS ==================== -->
-  <table border="0" cellpadding="8" cellspacing="0" width="100%">
+  <br/><br/>
+
+  <!-- ==================== FLAWLESSLY ALIGNED 2x3 GRID WITH REDIRECT BUTTONS ==================== -->
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
       <!-- Jarvis-AI Card -->
-      <td width="50%" align="center" valign="middle">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Jarvis-AI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Jarvis-AI&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=14&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b" width="100%" alt="Jarvis-AI" />
         </a>
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Jarvis-AI">
+          <img src="https://img.shields.io/badge/🚀_View_Jarvis--AI_➔-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Redirect to Jarvis-AI" />
+        </a>
       </td>
       <!-- AutoAid-AI Card -->
-      <td width="50%" align="center" valign="middle">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/AutoAid-AI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=AutoAid-AI&theme=tokyonight&hide_border=false&border_color=f59e0b&border_radius=14&bg_color=0d1117&title_color=f59e0b&icon_color=60a5fa" width="100%" alt="AutoAid-AI" />
+        </a>
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/AutoAid-AI">
+          <img src="https://img.shields.io/badge/🚀_View_AutoAid--AI_➔-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="Redirect to AutoAid-AI" />
         </a>
       </td>
     </tr>
     <tr>
       <!-- Careerpilot-AI Card -->
-      <td width="50%" align="center" valign="middle">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Careerpilot-AI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Careerpilot-AI&theme=tokyonight&hide_border=false&border_color=3b82f6&border_radius=14&bg_color=0d1117&title_color=60a5fa&icon_color=f59e0b" width="100%" alt="Careerpilot-AI" />
         </a>
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Careerpilot-AI">
+          <img src="https://img.shields.io/badge/🚀_View_Careerpilot--AI_➔-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to Careerpilot-AI" />
+        </a>
       </td>
       <!-- TutorHub Card -->
-      <td width="50%" align="center" valign="middle">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Tutor-Booking-System">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Tutor-Booking-System&theme=tokyonight&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa" width="100%" alt="TutorHub" />
+        </a>
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Tutor-Booking-System">
+          <img src="https://img.shields.io/badge/🚀_View_TutorHub_➔-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to TutorHub" />
         </a>
       </td>
     </tr>
     <tr>
       <!-- RideLink-Backend Card -->
-      <td width="50%" align="center" valign="middle">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/RideLink-Backend">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=RideLink-Backend&theme=tokyonight&hide_border=false&border_color=10b981&border_radius=14&bg_color=0d1117&title_color=34d399&icon_color=60a5fa" width="100%" alt="RideLink-Backend" />
         </a>
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/RideLink-Backend">
+          <img src="https://img.shields.io/badge/🚀_View_RideLink_➔-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to RideLink" />
+        </a>
       </td>
       <!-- Hospital Management Card -->
-      <td width="50%" align="center" valign="middle">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Hospital-Management-System">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa" width="100%" alt="Hospital Management" />
+        </a>
+        <br/><br/>
+        <a href="https://github.com/Sh3hann/Hospital-Management-System">
+          <img src="https://img.shields.io/badge/🚀_View_Hospital_Portal_➔-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Redirect to Hospital Management" />
         </a>
       </td>
     </tr>
