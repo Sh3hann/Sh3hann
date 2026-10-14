@@ -49,9 +49,22 @@
 
   <p><em>Interactive preview cards — click any card to inspect the repository directly:</em></p>
 
-  <!-- ==================== SHOWCASE CARDS (NO 3D BOX, PURE CODE REPOSITORIES) ==================== -->
+  <!-- ==================== SHOWCASE CARDS (PERFECT 2x3 GRID) ==================== -->
   <table border="0" cellpadding="8" cellspacing="0" width="100%">
     <tr>
+      <!-- Jarvis-AI Card -->
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Sh3hann/Jarvis-AI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Jarvis-AI&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=14&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b" width="100%" alt="Jarvis-AI" />
+        </a>
+        <br/>
+        <a href="https://github.com/Sh3hann/Jarvis-AI">
+          <img src="https://img.shields.io/badge/Jarvis--AI-Python_Assistant-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
+        </a>
+        <a href="https://github.com/Sh3hann/Jarvis-AI/stargazers">
+          <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
+        </a>
+      </td>
       <!-- AutoAid-AI Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/AutoAid-AI">
@@ -62,19 +75,6 @@
           <img src="https://img.shields.io/badge/AutoAid--AI-AI_Diagnostics-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
         </a>
         <a href="https://github.com/Sh3hann/AutoAid-AI/stargazers">
-          <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
-        </a>
-      </td>
-      <!-- TutorHub Card -->
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/Sh3hann/Tutor-Booking-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Tutor-Booking-System&theme=tokyonight&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa" width="100%" alt="TutorHub" />
-        </a>
-        <br/>
-        <a href="https://github.com/Sh3hann/Tutor-Booking-System">
-          <img src="https://img.shields.io/badge/TutorHub-Booking_System-7c3aed?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        </a>
-        <a href="https://github.com/Sh3hann/Tutor-Booking-System/stargazers">
           <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
         </a>
       </td>
@@ -93,6 +93,21 @@
           <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
         </a>
       </td>
+      <!-- TutorHub Card -->
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Sh3hann/Tutor-Booking-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Tutor-Booking-System&theme=tokyonight&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa" width="100%" alt="TutorHub" />
+        </a>
+        <br/>
+        <a href="https://github.com/Sh3hann/Tutor-Booking-System">
+          <img src="https://img.shields.io/badge/TutorHub-Booking_System-7c3aed?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        </a>
+        <a href="https://github.com/Sh3hann/Tutor-Booking-System/stargazers">
+          <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
       <!-- RideLink-Backend Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/RideLink-Backend">
@@ -106,22 +121,18 @@
           <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <!-- Hospital Management Card (Centered across row) -->
-      <td colspan="2" align="center" valign="top">
-        <div style="max-width: 500px;">
-          <a href="https://github.com/Sh3hann/Hospital-Management-System">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa" width="50%" alt="Hospital Management" />
-          </a>
-          <br/>
-          <a href="https://github.com/Sh3hann/Hospital-Management-System">
-            <img src="https://img.shields.io/badge/Healthcare-Node.js_Portal-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          </a>
-          <a href="https://github.com/Sh3hann/Hospital-Management-System/stargazers">
-            <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
-          </a>
-        </div>
+      <!-- Hospital Management Card -->
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Sh3hann/Hospital-Management-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa" width="100%" alt="Hospital Management" />
+        </a>
+        <br/>
+        <a href="https://github.com/Sh3hann/Hospital-Management-System">
+          <img src="https://img.shields.io/badge/Healthcare-Node.js_Portal-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        </a>
+        <a href="https://github.com/Sh3hann/Hospital-Management-System/stargazers">
+          <img src="https://img.shields.io/badge/★_Star-f59e0b?style=for-the-badge" />
+        </a>
       </td>
     </tr>
   </table>
