@@ -59,7 +59,7 @@
       <!-- Jarvis-AI Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Jarvis-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Jarvis-AI&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=14&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b" width="100%" alt="Jarvis-AI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Jarvis-AI&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=14&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&description=Intelligent+AI+voice+assistant+and+task+automation+system+built+with+Python" width="100%" alt="Jarvis-AI" />
         </a>
         <br/><br/>
         <a href="https://github.com/Sh3hann/Jarvis-AI">
@@ -69,7 +69,7 @@
       <!-- AutoAid-AI Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/AutoAid-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=AutoAid-AI&theme=tokyonight&hide_border=false&border_color=f59e0b&border_radius=14&bg_color=0d1117&title_color=f59e0b&icon_color=60a5fa" width="100%" alt="AutoAid-AI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=AutoAid-AI&theme=tokyonight&hide_border=false&border_color=f59e0b&border_radius=14&bg_color=0d1117&title_color=f59e0b&icon_color=60a5fa&description=AI-powered+vehicle+diagnostics+and+roadside+assistance+platform+with+guides" width="100%" alt="AutoAid-AI" />
         </a>
         <br/><br/>
         <a href="https://github.com/Sh3hann/AutoAid-AI">
@@ -81,7 +81,7 @@
       <!-- Careerpilot-AI Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Careerpilot-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Careerpilot-AI&theme=tokyonight&hide_border=false&border_color=3b82f6&border_radius=14&bg_color=0d1117&title_color=60a5fa&icon_color=f59e0b" width="100%" alt="Careerpilot-AI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Careerpilot-AI&theme=tokyonight&hide_border=false&border_color=3b82f6&border_radius=14&bg_color=0d1117&title_color=60a5fa&icon_color=f59e0b&description=Personalized+AI+career+navigation+companion+mapping+industry+skills" width="100%" alt="Careerpilot-AI" />
         </a>
         <br/><br/>
         <a href="https://github.com/Sh3hann/Careerpilot-AI">
@@ -91,7 +91,7 @@
       <!-- TutorHub Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Tutor-Booking-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Tutor-Booking-System&theme=tokyonight&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa" width="100%" alt="TutorHub" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Tutor-Booking-System&theme=tokyonight&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&description=Full-stack+educational+tutoring+marketplace+connecting+students+%26+institutes" width="100%" alt="TutorHub" />
         </a>
         <br/><br/>
         <a href="https://github.com/Sh3hann/Tutor-Booking-System">
@@ -103,7 +103,7 @@
       <!-- RideLink-Backend Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/RideLink-Backend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=RideLink-Backend&theme=tokyonight&hide_border=false&border_color=10b981&border_radius=14&bg_color=0d1117&title_color=34d399&icon_color=60a5fa" width="100%" alt="RideLink-Backend" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=RideLink-Backend&theme=tokyonight&hide_border=false&border_color=10b981&border_radius=14&bg_color=0d1117&title_color=34d399&icon_color=60a5fa&description=Scalable+Java+Spring+Boot+REST+microservice+for+ride+dispatch+and+tracking" width="100%" alt="RideLink-Backend" />
         </a>
         <br/><br/>
         <a href="https://github.com/Sh3hann/RideLink-Backend">
@@ -113,7 +113,7 @@
       <!-- Hospital Management Card -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/Sh3hann/Hospital-Management-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa" width="100%" alt="Hospital Management" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh3hann&repo=Hospital-Management-System&theme=tokyonight&hide_border=false&border_color=ec4899&border_radius=14&bg_color=0d1117&title_color=f472b6&icon_color=60a5fa&description=Full-stack+healthcare+operations+portal+managing+patient+records+%26+doctors" width="100%" alt="Hospital Management" />
         </a>
         <br/><br/>
         <a href="https://github.com/Sh3hann/Hospital-Management-System">
